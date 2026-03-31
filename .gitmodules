@@ -1,0 +1,6 @@
+[submodule "themes/sujt_theme"]
+	path = themes/sujt_theme
+	url = https://github.com/sujtfri/sujt_theme.git
+[submodule "themes/hugo-cloak-email"]
+	path = themes/hugo-cloak-email
+	url = https://github.com/martignoni/hugo-cloak-email.git

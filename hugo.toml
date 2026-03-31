@@ -1,4 +1,4 @@
-baseURL = 'https://sujtfri.github.io/ime-priimek/' # change member_repository to your repository name
+baseURL = 'https://sujtfri.github.io/test.user2/' # change member_repository to your repository name
 theme = ["hugo-cloak-email","sujt_theme"]
 
 [params]

@@ -1,7 +1,7 @@
 +++
 title = "Lessons Learned from a Completed Project"
 date = 2024-11-25T14:30:00+01:00
-draft = true
+draft = false
 +++
 
 ### Lessons Learned from a Completed Project
